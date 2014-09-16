@@ -6,7 +6,6 @@
 package ir.bemdi.chatone.server;
 
 import ir.bemdi.chatone.server.DiscoveryMulticastListener.A;
-import java.awt.Component;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
